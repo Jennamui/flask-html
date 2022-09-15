@@ -13,11 +13,11 @@ h1 {
 
 /* this is the code that would style ALL buttons */
 button { 
-    background-color: rgb(44, 146, 146);
+    background-color: rgb(81, 210, 86);
 }
 
 /* this is create a custom style that will only be applied to a 'class' called specialButton1 */
 .specialButton1 {
-    background-color: #000000;
+    background-color: #b41e1e;
     color: #ffffff;
 }
